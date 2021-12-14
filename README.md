@@ -5,7 +5,7 @@
 
 
 # Data
-Data processing and annotation scripts are located under `/data/script`. We are undecided whther we will release our Google OCR annotation due to the ethical concerns and potential the term of use violation.
+Data processing and annotation scripts are located under `/data/script`. We are undecided whether we will release our Google OCR annotation due to the ethical concerns and potential the term of use violation.
 ```
 cd /data
 mkdir TextOCR
