@@ -1,5 +1,9 @@
 # CS 6431 Final Project (Evaluating the Risk of Efficient Model Extraction Attack to Steal the Knowledge from Public OCR APIs)
 
+<img src="medias/pipeline.png"
+     style="float: left; margin-right: 10px;" />
+
+
 # Data
 Data processing and annotation scripts are located under `/data/script`. We are undecided whther we will release our Google OCR annotation due to the ethical concerns and potential the term of use violation.
 ```
